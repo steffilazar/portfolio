@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 20px;
+}
+header{
+    background-color:black;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+.pfp{
+    border-radius: 30px;
+    padding: 1rem;
+    height: 300px;
+    width: auto;
+    text-align: center;
+    transition: 0.5s ease-in-out;
+}
+.pfp:hover{
+    transform: translateY(-10px);
+}
+.image{
+    padding: 1rem;
+    text-align: center;
+}
+#about{
+    background-color: gray;
+    border-radius: 30px;
+    width: 50rem;
+    padding: 1rem;
+    text-align: center;
+    margin: 20px;
+    margin-left: 325px;
+}
+#education{
+    background-color: gray;
+    border-radius: 30px;
+    width: 50rem;
+    padding: 1rem;
+    text-align: center;
+    margin: 20px;
+    margin-left: 325px;
+}
+
+#skills{
+    background-color: gray;
+    border-radius: 30px;
+    width: 50rem;
+    padding: 1rem;
+    text-align: center;
+    margin: 20px;
+    margin-left: 325px;
+
+}
+#contact{background-color: gray;
+    border-radius: 30px;
+    width: 50rem;
+    padding: 1rem;
+    text-align: center;
+    list-style: none;
+    margin: 20px;
+    margin-left: 325px;
+}
